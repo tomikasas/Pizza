@@ -47,3 +47,4 @@
 - Pepperoni sausage
 - Ricotta
 - Fresh basil
+- Hot honey
