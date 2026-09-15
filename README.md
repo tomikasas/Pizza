@@ -48,3 +48,26 @@
 - Ricotta
 - Fresh basil
 - Hot honey
+  
+## White Pie
+- olive oil
+- Cheese
+- more cheese
+- rikota
+- Caramelized onions
+- sesame seeds (kraštai)
+- petražolės
+
+## Buffalo chicken 
+- Tomato sauce
+- Cheese
+- Chicken meat with buffalo sauce coating
+- blue cheese sauce
+  
+## Džiovintų pomidorų?
+- Tomato sauce
+- Cheese
+- sun dried tomatoes
+- pistachios?
+- ?
+- ?
