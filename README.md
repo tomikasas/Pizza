@@ -38,8 +38,8 @@
 - Cheese
 - Blue cheese
 - Premium ham
-- Fig jam
-- Arugula
+- Fig jam/slyvų jam
+- Jalapeños/other hot pepper  
 
 ## Pepperoni
 - Tomato sauce
@@ -50,19 +50,19 @@
 - Hot honey
   
 ## White Pie
-- olive oil
+- Olive oil
 - Cheese
-- more cheese
-- rikota
+- More cheese
+- Rikota
 - Caramelized onions
-- sesame seeds (kraštai)
-- petražolės
+- Sesame seeds (kraštai)
+- Petražolės
 
 ## Buffalo chicken 
 - Tomato sauce
 - Cheese
 - Chicken meat with buffalo sauce coating
-- blue cheese sauce
+- Blue cheese sauce
   
 ## Džiovintų pomidorų?
 - Tomato sauce
