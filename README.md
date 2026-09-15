@@ -67,7 +67,7 @@
 ## Džiovintų pomidorų?
 - Tomato sauce
 - Cheese
-- sun dried tomatoes
-- pistachios?
-- ?
+- Sun dried tomatoes
+- Pistachios?
+- Pesto?
 - ?
